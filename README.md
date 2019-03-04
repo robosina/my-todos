@@ -4,3 +4,14 @@
 https://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/
 
 2- functional programming https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus
+
+
+
+
+
+
+
+
+
+**BORN FAT**
+1- https://www.youtube.com/watch?v=ni5-3x6ofjc
