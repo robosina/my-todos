@@ -13,5 +13,5 @@ https://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/
 
 
 
-**BORN FAT**
-1- https://www.youtube.com/watch?v=ni5-3x6ofjc
+**FACE VERIFICATION**
+https://github.com/Joker316701882/Additive-Margin-Softmax
