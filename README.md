@@ -20,7 +20,10 @@ https://github.com/Joker316701882/Additive-Margin-Softmax
 
 **YOLO** <br />
 pure tensorflow Implement of YOLOv3 with support to train your own dataset
+
 https://github.com/YunYang1994/tensorflow-yolov3 
+
+A Keras implementation of YOLOv3 (Tensorflow backend) 
 
 https://github.com/qqwweee/keras-yolo3/blob/master/yolo3/model.py
 
