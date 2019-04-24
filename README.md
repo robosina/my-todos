@@ -34,3 +34,7 @@ https://github.com/opencv/dldt
 
 **HORMONAL OBESITY** <br />
 https://idmprogram.com/insulin-causes-weight-gain-hormonal-obesity-iv/
+
+
+**LSTM** <br />
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
