@@ -35,6 +35,8 @@ https://github.com/opencv/dldt
 **HORMONAL OBESITY** <br />
 https://idmprogram.com/insulin-causes-weight-gain-hormonal-obesity-iv/
 
+https://optimisingnutrition.com/2015/03/23/most-ketogenic-diet-foods/
+
 
 **LSTM** <br />
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
