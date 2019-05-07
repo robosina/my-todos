@@ -32,6 +32,8 @@ https://github.com/qqwweee/keras-yolo3/blob/master/yolo3/model.py
 **PORT DEEP LEARNING TO C++** <br />
 https://github.com/opencv/dldt
 
+http://luniak.io/cuda-neural-network-implementation-part-1/
+
 **HORMONAL OBESITY** <br />
 https://idmprogram.com/insulin-causes-weight-gain-hormonal-obesity-iv/
 
