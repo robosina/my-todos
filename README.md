@@ -34,6 +34,8 @@ https://github.com/opencv/dldt
 
 http://luniak.io/cuda-neural-network-implementation-part-1/
 
+http://www.goldsborough.me/cuda/ml/cudnn/c++/2017/10/01/14-37-23-convolutions_with_cudnn/
+
 **HORMONAL OBESITY** <br />
 https://idmprogram.com/insulin-causes-weight-gain-hormonal-obesity-iv/
 
