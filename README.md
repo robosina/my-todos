@@ -36,6 +36,10 @@ http://luniak.io/cuda-neural-network-implementation-part-1/
 
 http://www.goldsborough.me/cuda/ml/cudnn/c++/2017/10/01/14-37-23-convolutions_with_cudnn/
 
+I found below site for learning how to do conv on cuda
+
+https://www.evl.uic.edu/sjames/cs525/final.html
+
 **HORMONAL OBESITY** <br />
 https://idmprogram.com/insulin-causes-weight-gain-hormonal-obesity-iv/
 
