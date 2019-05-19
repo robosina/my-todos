@@ -40,6 +40,9 @@ I found below site for learning how to do conv on cuda
 
 https://www.evl.uic.edu/sjames/cs525/final.html
 
+3d convulution
+https://github.com/rauhul/ece408/blob/master/mp4%203d%20convolution/mp4%203d%20convolution.c
+
 **HORMONAL OBESITY** <br />
 https://idmprogram.com/insulin-causes-weight-gain-hormonal-obesity-iv/
 
