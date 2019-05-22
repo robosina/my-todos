@@ -51,3 +51,6 @@ https://optimisingnutrition.com/2015/03/23/most-ketogenic-diet-foods/
 
 **LSTM** <br />
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+**WEB SERVICES** <br />
+https://www.guru99.com/web-services-tutorial.html
