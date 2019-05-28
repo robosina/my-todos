@@ -6,8 +6,14 @@
 | number        | address | 
 | :---:         |     :---:      | 
 | 1   | https://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/     | 
-| 2    | https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus       | 
+| 2    | https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus       |
 
+# mysql in ubuntu
+
+
+| number        | address | 
+| :---:         |     :---:      | 
+| good tutorial for install | https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/   | 
 
 
 
