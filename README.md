@@ -7,7 +7,7 @@
 | :---:         |     :---:      | 
 | 1   | https://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/     | 
 | 2    | https://www.codeproject.com/Articles/1267996/Functional-Programming-in-Cplusplus       |
-
+| good tutorial for multi-thread programming   |https://thispointer.com//c-11-multithreading-part-1-three-different-ways-to-create-threads/    |
 # mysql in ubuntu
 
 
